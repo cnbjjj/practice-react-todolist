@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/practice-react-todolist/static/css/main.63197137.css",
+    "main.js": "/practice-react-todolist/static/js/main.ae91852b.js",
+    "index.html": "/practice-react-todolist/index.html",
+    "main.63197137.css.map": "/practice-react-todolist/static/css/main.63197137.css.map",
+    "main.ae91852b.js.map": "/practice-react-todolist/static/js/main.ae91852b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63197137.css",
+    "static/js/main.ae91852b.js"
+  ]
+}
